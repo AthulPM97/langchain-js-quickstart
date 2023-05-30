@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "langchain",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/AthulPM97/langchain-demo"
   },
   "bugs": "",
   "keywords": [],
